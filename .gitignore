@@ -1,0 +1,7 @@
+# Config lokal berisi token asli — JANGAN PERNAH di-commit
+config.txt
+# Jar bot (download dari releases JMusicBot)
+*.jar
+# File runtime bot
+Playlists/
+*.log
