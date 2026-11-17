@@ -5,3 +5,5 @@ config.txt
 # File runtime bot
 Playlists/
 *.log
+bot.pid
+serversettings.json
