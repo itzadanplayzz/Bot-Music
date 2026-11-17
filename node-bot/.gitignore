@@ -1,0 +1,5 @@
+# JANGAN PERNAH di-commit — berisi token asli
+.env
+node_modules/
+*.log
+bot.pid
